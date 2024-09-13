@@ -48,7 +48,7 @@ function waitingTime(waitingTimes, serialNumber) {
 
 
 // console.log(calculateTax())
-// console.log(sendNotification())
-// console.log(checkDigitsInName())
+// console.log(sendNotification("sadia8icloud.com"))
+// console.log(checkDigitsInName(["Raj"]))
 // console.log(calculateFinalScore({ name: "Rajib", testScore: 15,  schoolGrade: 25, isFFamily : true  }))
-console.log(waitingTime())
+// console.log(waitingTime())
